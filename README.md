@@ -1,6 +1,6 @@
 # npmdoc-turbolinks
 
-#### api documentation for  [turbolinks (v5.0.0)](https://github.com/turbolinks/turbolinks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-turbolinks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-turbolinks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-turbolinks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-turbolinks)
+#### basic api documentation for  [turbolinks (v5.0.0)](https://github.com/turbolinks/turbolinks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-turbolinks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-turbolinks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-turbolinks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-turbolinks)
 
 #### Turbolinks makes navigating your web application faster
 
@@ -67,7 +67,8 @@
     "scripts": {
         "test": "bin/blade runner"
     },
-    "version": "5.0.0"
+    "version": "5.0.0",
+    "bin": {}
 }
 ```
 
